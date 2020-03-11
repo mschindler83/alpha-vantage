@@ -1,4 +1,4 @@
-# Array Access
+# Alpha Vantage
 [![Build Status](https://img.shields.io/travis/mschindler83/alpha-vantage/master.svg)](https://travis-ci.org/mschindler83/array-access)
 [![Latest Stable Version](https://img.shields.io/packagist/v/mschindler83/alpha-vantage.svg)](https://packagist.org/packages/mschindler83/array-access)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/mschindler83/alpha-vantage.svg)](https://scrutinizer-ci.com/g/mschindler83/array-access/?branch=master)
